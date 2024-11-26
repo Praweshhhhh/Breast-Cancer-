@@ -151,8 +151,8 @@ Breast Cancer Dataset (UCI Machine Learning Repository): https://archive.ics.uci
 
 2. Hyper parameter tuning and Model Training
 
-![alt text](hhttps://github.com/Praweshhhhh/Breast-Cancer-/blob/main/Images/HPandModel.png)
+![alt text](https://github.com/Praweshhhhh/Breast-Cancer-/blob/main/Images/HPandModel.png)
 
 3. Streamlit App
 
-![alt text](hhttps://github.com/Praweshhhhh/Breast-Cancer-/blob/main/Images/Streamlit.png)
+![alt text](https://github.com/Praweshhhhh/Breast-Cancer-/blob/main/Images/Streamlit.png)
